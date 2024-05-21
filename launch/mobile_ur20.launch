@@ -27,7 +27,7 @@
         -z 1.30173
         -R 3.1415927
         -P 0.0
-        -Y 1.5708" />
+        -Y -1.5708 " />
 
   <node name="spawn_obstacle" 
         pkg="gazebo_ros" 
